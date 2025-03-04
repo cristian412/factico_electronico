@@ -1,7 +1,6 @@
 # factico_electronico
 facturación electrónica
 
-```markdown
 # Manual Técnico SIFEN (v150) - Resumen
 
 ## 1. Introducción
@@ -111,7 +110,7 @@ El **Sistema Integrado de Facturación Electrónica Nacional (SIFEN)** regula la
 - **Glosario técnico**:  
   `CDC`, `DTE`, `KuDE`, `WS-Security`.
 
-```
+
 
 **Instrucciones para guardar**:
 1. Copia todo el contenido entre los triple backticks (incluyendo las líneas ````markdown` y ````).
